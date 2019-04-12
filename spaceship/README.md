@@ -95,6 +95,9 @@ To try _spaceship_, just run `fastlane spaceship`. It will automatically start t
 
 This requires you to install `pry` using `sudo gem install pry`. `pry` is not installed by default, as most [_fastlane_](https://fastlane.tools) users won't need the `spaceship playground`. You can add the `pry` dependency to your `Gemfile`.
 
+### Examples
+// TODO: Add documented playground example to upload App Previews (Trailers) for all device sizes or a single device size to iTunesConnect.
+
 ## Apple Developer Portal API
 
 Open [DeveloperPortal.md](docs/DeveloperPortal.md) for code samples
